@@ -10,6 +10,6 @@ public class Main {
         System.out.println(s1.equals(s2));
         System.out.println(s1.equals(s3));
 
-        System.out.println("Hello world! change");
+        System.out.println("Hello world! change changed fb7 someone else");
     }
 }
